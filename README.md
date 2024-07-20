@@ -14,7 +14,7 @@ AudioSphere is an interactive 3D audio visualizer that creates mesmerizing spher
 
 ## Demo
 
-![AudioSphere Visualization Dem](./assets/video.mov)
+![AudioSphere Visualization Dem](./assets/video.gif)
 
 ## How It Works
 
